@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Currently learning: Ruby, Ruby on Rails, SQL, Python, React, TypeScript
+- </> Currently learning: Ruby, Ruby on Rails, SQL, Python, React, TypeScript
 - 💻 HTML, CSS, JavaScript (Bootstrap, Node.js)
