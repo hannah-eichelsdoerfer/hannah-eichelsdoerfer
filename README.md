@@ -5,8 +5,7 @@
 <!-- blank line -->
 ----
 <!-- blank line -->
-https://img-premium.flaticon.com/png/512/179/179330.png?token=exp=1621355265~hmac=4aaa4fb6c8a5d93f776777b274fc8e06
-[Text to display](https://www.linkedin.com/in/hannah-eichelsdoerfer/){:target="_blank"}
+[![Semantic description of image](https://img-premium.flaticon.com/png/512/179/179330.png?token=exp=1621355265~hmac=4aaa4fb6c8a5d93f776777b274fc8e06 "Linkedin")*My caption*][(https://www.linkedin.com/in/hannah-eichelsdoerfer/){:target="_blank"}]
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
