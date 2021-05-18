@@ -1,5 +1,13 @@
 ### Hi there 👋🏼
 
+</> Currently learning: Ruby, Ruby on Rails, SQL, Python, React, TypeScript
+💻 HTML, CSS, JavaScript (Bootstrap, Node.js)
+<!-- blank line -->
+----
+<!-- blank line -->
+https://img-premium.flaticon.com/png/512/179/179330.png?token=exp=1621355265~hmac=4aaa4fb6c8a5d93f776777b274fc8e06
+[Text to display](https://www.linkedin.com/in/hannah-eichelsdoerfer/){:target="_blank"}
+
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- </> Currently learning: Ruby, Ruby on Rails, SQL, Python, React, TypeScript
-- 💻 HTML, CSS, JavaScript (Bootstrap, Node.js)
+
