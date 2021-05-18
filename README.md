@@ -1,6 +1,8 @@
 ### Hi there 👋🏼
 🎨 HTML, CSS (Bootstrap, SCSS), JavaScript, React
+<br>
 💻 Ruby (on Rails), Node, Express
+<br>
 ⌨️ SQL, MongoDB
 
 <!--
