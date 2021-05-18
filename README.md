@@ -1,8 +1,7 @@
 ### Hi there 👋🏼
-
-⌨️ Currently learning: SQL, Python, React, TypeScript
-<br>
-💻 HTML, CSS, JavaScript (Bootstrap, Node.js), Ruby, Ruby on Rails
+🎨 HTML, CSS (Bootstrap, SCSS), JavaScript, React
+💻 Ruby (on Rails), Node, Express
+⌨️ SQL, MongoDB
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  Bootstrap, SCSS
 -->
 
