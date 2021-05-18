@@ -1,11 +1,8 @@
 ### Hi there 👋🏼
 
-</> Currently learning: Ruby, Ruby on Rails, SQL, Python, React, TypeScript
-💻 HTML, CSS, JavaScript (Bootstrap, Node.js)
-<!-- blank line -->
-----
-<!-- blank line -->
-[![Semantic description of image](https://img-premium.flaticon.com/png/512/179/179330.png?token=exp=1621355265~hmac=4aaa4fb6c8a5d93f776777b274fc8e06 "Linkedin")*My caption*][(https://www.linkedin.com/in/hannah-eichelsdoerfer/){:target="_blank"}]
+⌨️ Currently learning: SQL, Python, React, TypeScript
+<br>
+💻 HTML, CSS, JavaScript (Bootstrap, Node.js), Ruby, Ruby on Rails
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
