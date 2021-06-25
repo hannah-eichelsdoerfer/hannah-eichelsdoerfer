@@ -1,9 +1,15 @@
 ### Hi there 👋🏼
-🎨 HTML, CSS (Bootstrap, SCSS), JavaScript, React
+I'm Hannah, a full-stack developer currently based in Berlin, but open to relocating.
+<br>
+I'm currently expanding my skills through learning further as well as working on my own projects.
+<br>
+🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (React)
 <br>
 💻 Ruby (on Rails), Node, Express
 <br>
 ⌨️ SQL, MongoDB
+
+[Personal Portfolio](https://www.hannaheich.com)
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
