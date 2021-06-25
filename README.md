@@ -1,7 +1,9 @@
 ### Hi there 👋🏼
 I'm Hannah, a full-stack developer currently based in Berlin, but open to relocating.
 <br>
-I'm currently expanding my skills through learning further as well as working on my own projects.
+<br>
+Currently expanding my skills through learning further as well as working on my own projects.
+<br>
 <br>
 🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (React)
 <br>
