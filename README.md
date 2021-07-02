@@ -1,5 +1,5 @@
 ### Hi there 👋🏼
-I'm Hannah, a **full-stack developer** currently based in Berlin, but open to relocating.
+I'm Hannah, a **full-stack** developer currently based in Berlin, but open to relocating.
 <br>
 <br>
 Currently expanding my skills through learning further as well as working on my own projects.
