@@ -7,9 +7,11 @@ Currently expanding my skills through learning further as well as working on my 
 <br>
 🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (React)
 <br>
-💻 Ruby (on Rails), Node, Express
+💻 Ruby (on Rails), Node.js, Express.js
 <br>
 ⌨️ SQL, MongoDB
+<br>
+⚙️ Git, GitHub, VSCode
 
 [Personal Portfolio](https://www.hannaheich.com)
 
