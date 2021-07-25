@@ -11,7 +11,7 @@ Currently expanding my skills through learning further as well as working on my 
 <br>
 ⌨️ SQL, MongoDB
 <br>
-⚙️ Git, GitHub, VSCode
+⚙️ Git, GitHub, VSCode, Heroku
 
 [Personal Portfolio](https://www.hannaheich.com)
 
