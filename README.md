@@ -2,7 +2,7 @@
 I'm Hannah, a **full-stack** developer currently based in Berlin, but open to relocating.
 <br>
 <br>
-Currently expanding my skills through learning further as well as working on my own projects.
+Currently expanding my skills through learning further as well as working on my own projects ([Personal Portfolio](https://www.hannaheich.com))
 <br>
 <br>
 🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (React)
@@ -12,8 +12,8 @@ Currently expanding my skills through learning further as well as working on my 
 ⌨️ SQL, MongoDB
 <br>
 ⚙️ Git, GitHub, VSCode, Heroku
-
-[Personal Portfolio](https://www.hannaheich.com)
+<br>
+<br>
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,5 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -  Bootstrap, SCSS
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
