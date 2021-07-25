@@ -14,6 +14,8 @@ Currently expanding my skills through learning further as well as working on my 
 ⚙️ Git, GitHub, VSCode, Heroku
 <br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=8&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +32,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -  Bootstrap, SCSS
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
 
