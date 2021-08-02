@@ -5,9 +5,9 @@ I'm Hannah, a **full-stack** developer currently based in Berlin, but open to re
 Currently expanding my skills through learning further as well as working on my own projects ([Personal Portfolio](https://www.hannaheich.com))
 <br>
 <br>
-🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (React)
+🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (Typescript, React)
 <br>
-💻 Ruby (on Rails), Node.js, Express.js
+💻 Ruby (on Rails), Node.js, Express.js, Python
 <br>
 ⌨️ SQL, MongoDB
 <br>
