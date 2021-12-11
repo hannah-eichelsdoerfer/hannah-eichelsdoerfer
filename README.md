@@ -9,7 +9,7 @@ Currently expanding my skills through learning further as well as working on my 
 <br>
 💻 Ruby (on Rails), Python, Node.js, Express.js
 <br>
-⌨️ SQL, MongoDB
+⌨️ MongoDB, SQL
 <br>
 ⚙️ Git, GitHub, VSCode, Heroku
 <br>
