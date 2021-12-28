@@ -11,7 +11,7 @@ Currently expanding my skills through learning further as well as working on my 
 <br>
 ⌨️ MongoDB, SQL
 <br>
-⚙️ Git, GitHub, VSCode, Heroku
+⚙️ Git, GitHub, VSCode, Heroku, Vercel, Netlify
 <br>
 <br>
 
