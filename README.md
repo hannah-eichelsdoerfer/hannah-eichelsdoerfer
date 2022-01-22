@@ -2,7 +2,8 @@
 I'm Hannah, a **full-stack** developer currently based in Berlin, but open to relocating.
 <br>
 <br>
-Currently working for a startup in Germany and expanding my skills through diving deeper into the different languages as well as working on my own projects ([Personal Portfolio](https://www.hannaheich.com))
+Currently working for a startup in Germany and teaching at Le Wagon Berlin. 
+Constantly expanding my skills through diving deeper into the different languages and working on my own projects ([Personal Portfolio](https://www.hannaheich.com))
 <br>
 <br>
 🎨 HTML, CSS (Bootstrap, SCSS), JavaScript (Typescript), React, Next.js
