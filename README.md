@@ -17,7 +17,7 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 
 ##### GitHub repositories - top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=8&hide_title=true)](https://github.com/hannah-eichelsdoerfer)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=10&hide_title=true)](https://github.com/hannah-eichelsdoerfer)
 
 
 <!--
