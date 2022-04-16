@@ -12,6 +12,8 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 ⌨️ MongoDB, SQL
 <br>
+💭 Testing Library, Jest, Playwright, Rspec
+<br>
 ⚙️ Git, GitHub, VSCode, Heroku, Vercel, Netlify
 <br>
 <br>
