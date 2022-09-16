@@ -2,7 +2,7 @@
 I'm Hannah, a **full-stack** developer.
 <br>
 <br>
-Currently working for a startup in Germany and teaching at Le Wagon. 
+Currently working for a german startup called [Con Cubo](https://www.con-cubo.com/) and teaching at Le Wagon. 
 Constantly expanding my skills through diving deeper into the different languages and working on my own projects ([Portfolio](https://www.hannaheich.tech))
 <br>
 <br>
