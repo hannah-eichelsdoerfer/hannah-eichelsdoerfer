@@ -8,9 +8,9 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 🎨 HTML, CSS (Bootstrap, Tailwind, SCSS), JavaScript (Typescript), React.js, Next.js
 <br>
-💻 Ruby (on Rails), Python, Node.js, Express.js
+💻 Python, Swift, Ruby (on Rails), Node.js, Express.js
 <br>
-⌨️ MongoDB, SQL
+⌨️ MongoDB, SQL (MySQL, PostgreSQL)
 <br>
 💭 Testing Library, Jest, Playwright, Rspec
 <br>
