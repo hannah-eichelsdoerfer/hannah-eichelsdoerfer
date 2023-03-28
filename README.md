@@ -18,8 +18,11 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 <br>
 
-##### GitHub repositories - top languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=10&hide_title=true)](https://github.com/hannah-eichelsdoerfer)
+
+| Statistics  | Top Languages |
+| ------------- | ------------- |
+| [![GitHub Streak](https://streak-stats.demolab.com?user=hannah-eichelsdoerfer&theme=date-night&hide_border=true&border_radius=8&background=FFFFFF)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=10&hide_title=true&hide_border=true&)](https://github.com/hannah-eichelsdoerfer)  |
+
 
 
 <!--
