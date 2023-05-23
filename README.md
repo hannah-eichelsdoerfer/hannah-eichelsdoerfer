@@ -19,11 +19,11 @@ Constantly expanding my skills through diving deeper into the different language
 <br>
 
 
-| Statistics  | Top Languages |
+| Statistics  | Top Languages[^1] |
 | ------------- | ------------- |
 | [![GitHub Streak](https://streak-stats.demolab.com?user=hannah-eichelsdoerfer&theme=date-night&hide_border=true&border_radius=8&background=FFFFFF)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hannah-eichelsdoerfer&layout=compact&count_private=true&langs_count=10&hide_title=true&hide_border=true&)](https://github.com/hannah-eichelsdoerfer)  |
 
-
+[^1]: Only public repositores count torwards Top Languages.
 
 <!--
 **hannah-eichelsdoerfer/hannah-eichelsdoerfer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
