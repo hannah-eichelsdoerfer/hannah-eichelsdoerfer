@@ -3,7 +3,7 @@ I'm Hannah, a **full-stack** developer.
 <br>
 <br>
 Currently working for the german startup [Con Cubo](https://www.con-cubo.com/) and studying a Masters of Information Technology at [Griffith University](https://www.griffith.edu.au/study/engineering-it-aviation/information-technology?location=intl&level=pgrd&pathway=nsl). 
-Constantly expanding my skills through diving deeper into the different languages and working on my own projects which you can see here or on my [Portfolio](https://www.hannaheich.tech).
+Constantly expanding my skills through diving deeper into the different languages and working on my own projects which you can see here or on my [Portfolio](https://www.hannaheich.me).
 <br>
 <br>
 🎨 HTML, CSS (Bootstrap, Tailwind, SCSS), JavaScript (Typescript), React.js, Next.js
